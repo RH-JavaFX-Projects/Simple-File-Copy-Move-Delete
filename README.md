@@ -20,5 +20,5 @@ Make sure you have the following installed before running the program:
 
 Clone the repository:
    ```shell
-   git clone https://github.com/your-username/java-audio-player.git
+   git clone https://github.com/RH-JavaFX-Projects/Simple-File-Copy-Move-Delete.git
 
