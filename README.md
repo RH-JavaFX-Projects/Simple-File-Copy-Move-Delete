@@ -2,6 +2,8 @@
 
 This is a simple file management program built using Java, JavaFX, and Scene Builder. It allows you to perform basic file operations such as copying, moving, and deleting files.
 
+![Simple-File-Copy-Move-Delete](screenshot.png)
+
 ## Features
 
 - Copy files from one location to another.
